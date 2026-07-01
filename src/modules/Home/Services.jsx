@@ -10,7 +10,7 @@ function Services() {
 
         <div className="mt-10 grid gap-6 md:grid-cols-3">
           <div className="rounded-lg border border-gray-200 bg-white p-6 shadow-sm">
-            <h2 className="text-xl font-semibold text-gray-800">Consulting</h2>
+            <h2 className="text-xl font-semibold text-gray-800">onsulting</h2>
             <p className="mt-2 text-gray-600">
               Expert guidance to help your team make the right decisions.
             </p>

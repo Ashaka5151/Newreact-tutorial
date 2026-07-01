@@ -24,6 +24,11 @@ function Head() {
                 Contact
               </Link>
             </li>
+            <li>
+              <Link to="/products" className="text-gray-600 hover:text-gray-800">
+                Products
+              </Link>
+            </li>
           </ul>
         </nav>
       </div>

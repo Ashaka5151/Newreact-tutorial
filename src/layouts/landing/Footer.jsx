@@ -17,6 +17,9 @@ function Footer() {
           <Link to="/contact" className="hover:text-gray-300">
             Contact
           </Link>
+          <Link to="/products" className="hover:text-gray-300">
+            Products
+          </Link>
         </div>
       </div>
     </footer>

@@ -3,6 +3,7 @@ import LandingHomepage from "../modules/Home";
 import AboutUs from "../modules/Home/About";
 import ServicesPage from "../modules/Home/Services";
 import ContactPage from "../modules/Home/Contact";
+import ProductsPage from "../modules/Home/Products";
 
 export const landingRoutes = [
   {
@@ -27,6 +28,11 @@ export const landingRoutes = [
       {
         path: "contact",
         element: <ContactPage />,
+      },
+
+      {
+        path: "products",
+        element: <ProductsPage />,
       },
     ],
   },
