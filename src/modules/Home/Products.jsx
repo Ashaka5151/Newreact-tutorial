@@ -1,7 +1,7 @@
 const products = [
   {
     id: 1,
-    title: "Aurora Smart Lamp",
+    title: "Aurora Smart Lampllllll",
     price: "$89",
     description:
       "A minimal smart lamp with ambient lighting modes and voice control support.",
@@ -93,9 +93,7 @@ function Products() {
                   </span>
                 </div>
                 <p className="mt-3 text-gray-600">{product.description}</p>
-                <button className="mt-5 rounded-full bg-gray-900 px-4 py-2 text-sm font-medium text-white transition hover:bg-gray-700">
-                  View details
-                </button>
+                
               </div>
             </article>
           ))}
